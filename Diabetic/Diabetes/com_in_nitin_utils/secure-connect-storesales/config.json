@@ -1,0 +1,16 @@
+{
+  "host": "ab66cf10-0c0f-430c-8eac-c43278e6ea7f-ap-southeast-1.db.astra.datastax.com",
+  "port": 29080,
+  "cql_port": 29042,
+  "keyspace": "SalesPrediction",
+  "localDC": "ap-southeast-1",
+  "caCertLocation": "./ca.crt",
+  "keyLocation": "./key",
+  "certLocation": "./cert",
+  "keyStoreLocation": "./identity.jks",
+  "keyStorePassword": "oyf4Gb31APNz6MK0p",
+  "trustStoreLocation": "./trustStore.jks",
+  "trustStorePassword": "Urvu8xzke05D6YSi3",
+  "csvLocation": "./data",
+  "pfxCertPassword": "4MXIf8m37pscVkPH5"
+}
